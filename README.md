@@ -1,4 +1,3 @@
-# SSIS
 <h1> Xây dựng Data Warehouse với SSIS </h1>
 <h2> Tổng quan dự án </h2> 
 
